@@ -1,2 +1,2 @@
 # Total-Commander
-File manager for Android
+File manager for Windows
