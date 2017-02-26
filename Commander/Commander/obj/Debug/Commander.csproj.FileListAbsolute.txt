@@ -1,0 +1,27 @@
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\bin\Debug\Commander.exe.config
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\bin\Debug\Commander.exe
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\bin\Debug\Commander.pdb
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\obj\Debug\Commander.Form1.resources
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\obj\Debug\Commander.Properties.Resources.resources
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\obj\Debug\Commander.exe
+c:\users\temp.infomat.000\documents\visual studio 2012\Projects\Commander\Commander\obj\Debug\Commander.pdb
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\bin\Debug\Commander.exe.config
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\obj\Debug\Commander.exe
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\obj\Debug\Commander.pdb
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\bin\Debug\Commander.exe
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\bin\Debug\Commander.pdb
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\obj\Debug\Commander.Form1.resources
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\Piotrek\Downloads\Commander\Commander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\bin\Debug\Commander.exe.config
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\obj\Debug\Commander.exe
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\obj\Debug\Commander.pdb
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\bin\Debug\Commander.exe
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\bin\Debug\Commander.pdb
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\obj\Debug\Commander.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\obj\Debug\Commander.Form1.resources
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\obj\Debug\Commander.Properties.Resources.resources
+C:\Users\Piotrek\Downloads\Commander-Piotr-Jaśkiewicz\Commander\Commander\obj\Debug\Commander.csproj.GenerateResource.Cache
